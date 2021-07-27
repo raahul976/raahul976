@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raahul976
-- 👀 I’m interested in WordPress and Laravel Development
-- 🌱 I’m currently learning Laravel Development
+- 👀 I’m interested in WordPress, Flutter and Laravel Development
+- 🌱 I’m currently learning Laravel and Fltter Development
 
 
 <!---
